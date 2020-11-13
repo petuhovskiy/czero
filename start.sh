@@ -1,4 +1,4 @@
-docker rm czero
+docker rm -f czero
 docker run \
     --name czero \
     -t \
